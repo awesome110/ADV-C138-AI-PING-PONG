@@ -1,0 +1,29 @@
+.heading {
+    width:100%;
+    text-align:left;
+}
+.heading button {
+    float:right;
+    border:1px solid white;
+}
+.big_img {
+    width:100%;
+}
+.heading h3 {
+    display:inline;
+}
+#start {
+    font-size:22px;
+}
+h4 {
+    background-color:whitesmoke;
+    line-height:2;
+    margin:0px;
+}
+.instruction_img {
+    display:inline-block;
+    width:45px;
+}
+.modal_dialog {
+    width:90%;
+}
